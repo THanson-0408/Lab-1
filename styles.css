@@ -1,0 +1,75 @@
+/* resets */
+body, h1, h2, h3, h4, p, button, ul, li{
+    margin: 0;
+    padding: 0;
+    background-color: #f9fafc;
+}
+
+header{
+    margin: 10px;
+    /* border: 1px solid black; */
+}
+
+.title{
+    margin-left: 5px;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+li{
+    margin: 10px;
+    margin-left: 5px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #69696a;
+}
+
+.button{
+    background: #000;
+    color: #fff;
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    position: relative;
+}
+
+body{
+    /* border: 1px dotted red; */
+    margin: 10px;
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+main{
+    /* border: 3px dashed green; */
+    margin: 15px
+}
+
+.begin{
+    /* border: 1px dotted blue; */
+    padding: 10px;
+    margin-left: -10px;
+}
+
+.content{
+    /* border: 1px solid green; */
+    border-left: 3px solid #69696a;
+    padding-left: 10px;
+}
+
+.button2{
+    background: #000;
+    color: #fff;
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    margin-top: 20px;
+}
